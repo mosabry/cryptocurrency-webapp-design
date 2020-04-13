@@ -84,9 +84,8 @@
 }
 
 .app-picture img{
-    max-width: 100%;
     width: 50%;
-    height: auto;
+    height: 85%;
     margin-top: -20px;
     padding-left: 150px;
 }
