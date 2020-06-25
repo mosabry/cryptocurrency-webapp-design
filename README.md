@@ -3,4 +3,4 @@
 # Cryptocurrency Webapp Design
 Cryptocurrency Wep App Design #1
 
-Visit My Site on [Netlify](https://cryptowebdesign.netlify.com/) Or [GitHub Pages](https://pysabry.github.io/cryptocurrency-webapp-design/)
+Visit My Site on [Netlify](https://cryptowebdesign.netlify.com/) Or [GitHub Pages](https://imsabry.github.io/cryptocurrency-webapp-design/)
